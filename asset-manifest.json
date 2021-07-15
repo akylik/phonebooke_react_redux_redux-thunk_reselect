@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/phonebooke_react_redux_redux-thunk_reselect/static/css/main.e14d8429.chunk.css",
+    "main.js": "/phonebooke_react_redux_redux-thunk_reselect/static/js/main.46153ea7.chunk.js",
+    "main.js.map": "/phonebooke_react_redux_redux-thunk_reselect/static/js/main.46153ea7.chunk.js.map",
+    "runtime-main.js": "/phonebooke_react_redux_redux-thunk_reselect/static/js/runtime-main.f856693f.js",
+    "runtime-main.js.map": "/phonebooke_react_redux_redux-thunk_reselect/static/js/runtime-main.f856693f.js.map",
+    "static/css/2.1a215020.chunk.css": "/phonebooke_react_redux_redux-thunk_reselect/static/css/2.1a215020.chunk.css",
+    "static/js/2.821a421d.chunk.js": "/phonebooke_react_redux_redux-thunk_reselect/static/js/2.821a421d.chunk.js",
+    "static/js/2.821a421d.chunk.js.map": "/phonebooke_react_redux_redux-thunk_reselect/static/js/2.821a421d.chunk.js.map",
+    "index.html": "/phonebooke_react_redux_redux-thunk_reselect/index.html",
+    "precache-manifest.ae1be836a77b088566f95f0d584f15c5.js": "/phonebooke_react_redux_redux-thunk_reselect/precache-manifest.ae1be836a77b088566f95f0d584f15c5.js",
+    "service-worker.js": "/phonebooke_react_redux_redux-thunk_reselect/service-worker.js",
+    "static/css/2.1a215020.chunk.css.map": "/phonebooke_react_redux_redux-thunk_reselect/static/css/2.1a215020.chunk.css.map",
+    "static/css/main.e14d8429.chunk.css.map": "/phonebooke_react_redux_redux-thunk_reselect/static/css/main.e14d8429.chunk.css.map",
+    "static/js/2.821a421d.chunk.js.LICENSE.txt": "/phonebooke_react_redux_redux-thunk_reselect/static/js/2.821a421d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f856693f.js",
+    "static/css/2.1a215020.chunk.css",
+    "static/js/2.821a421d.chunk.js",
+    "static/css/main.e14d8429.chunk.css",
+    "static/js/main.46153ea7.chunk.js"
+  ]
+}
